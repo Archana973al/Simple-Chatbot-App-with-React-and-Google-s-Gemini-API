@@ -10,6 +10,7 @@ Responsive Layout: Ensures the app works seamlessly across different devices.
 
 #Technologies Used
 React: A JavaScript library for building user interfaces.
+
 Google's Gemini API: Powers the chatbot's natural language processing capabilities.
 
 #Installation
@@ -26,8 +27,11 @@ using npm: npm start
 
 #How It Works
 The user types a message into the chat input field and submits it.
+
 The message is sent to the Gemini API for processing.
+
 The API generates a response, which is displayed in the chat interface.
+
 The conversation history is maintained and displayed in real-time.
 
 #Future Improvements
