@@ -21,19 +21,19 @@ This project is a simple chatbot application implemented in React, integrated wi
 
 ## How It Works
 ### Step-by-Step Process
-User Input
+1.User Input
 ✍️ Type message → Click send
 
-API Request
+2.API Request
 🔄 React sends payload to Gemini
 
-AI Processing
+3.AI Processing
 🧠 Gemini analyzes context → Generates response
 
-Display Output
+4.Display Output
 💬 Streams reply to chat interface
 
-State Management
+5.State Management
 📝 Maintains conversation history
 
 ## Future Improvements
